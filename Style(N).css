@@ -1,0 +1,45 @@
+:root {
+    background-color:blue;
+	color:white;
+	--color-accent:grey;
+	--font-main:calibri;
+	--spacing-unit:8 px;
+}
+*{box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+body{
+	font-size:20;
+	line-height:2;
+	background-color:black;
+}
+h1{
+	color:white;
+}
+h2{
+	padding:20px;
+}
+h4{
+	margin:0;
+	padding :20px;
+color:grey}
+i{
+	color:orange;
+}
+
+ul{
+	list-style:None;
+	padding:0;
+	margin:0;
+	text-align:right;
+}
+li{
+	display:inline;
+	margin-right:20px;
+	justify-content:flex-end;
+	
+}
+button{color:white;
+background-color:red;
+}
